@@ -16,5 +16,12 @@
 ---
 ---
 
-## Problem :
+## Problem : GitHub@Switch account in a computer
 ### Solution :
+    $ git pull
+    Do some modify....
+    $ git config user.name "KShih"
+    $ git config user.email "kontonsine@gmail.com"
+    $ git add .
+    $ git commit -m "Some msg"
+    $ git push
